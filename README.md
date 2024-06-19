@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ugobiancone
 - 👀 I’m interested in cybersecurity , iot, finance and video game.
-- 🌱 I’m currently learning IOS meaning Internet of Object and security at the ESILV in Paris 
-- 📫 How to reach me ugo.biancone@edu.devinci.fr
+- 🌱 I’m currently working as an Cybersecurity Architect and SecDevOPS
+- 📫 How to reach me ugo@biancone.pro
 or on linkedin : @ugo biancone
